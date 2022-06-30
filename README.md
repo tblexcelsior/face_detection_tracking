@@ -17,6 +17,7 @@
 ## TRAIN MODEL
 <ul>
   <li>In order to make the model as simple as possible, I used Pnet in <a href="https://arxiv.org/pdf/1604.02878">MTCNN model</a>. This cause the model quite overfit</li>
+  <li>Get the trained model from <a href="https://drive.google.com/drive/folders/1KvoSw7Tzq3e7LlBw_fYqYaPwmS1u6htC?usp=sharing">link</a>
 </ul>
 <img src="https://miro.medium.com/max/1400/1*6xkYymO5qetLLjUt0MYJXg.jpeg" alt="Pnet image">
 
